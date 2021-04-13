@@ -12,7 +12,7 @@
   [병합군집, Agglomerative Clustering](https://github.com/namepen/TIL/blob/main/clustering/%EB%B3%91%ED%95%A9%EA%B5%B0%EC%A7%91(Agglomerative%20Clustering).ipynb)
 
 ### Folium
-  [Folium Interctive Map, Kaggle 필사](./etc/Display%20folium%20map%20in%20notebook.ipynb)
+  [Folium Interctive Map(Kaggle 필사)](./etc/Display%20folium%20map%20in%20notebook.ipynb)<br>
   [노트북에 Folium Map이 보이지않는 현상 해결법](./etc/folium-sample-maps.ipynb)
 
 ### 기타 
